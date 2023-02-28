@@ -1,7 +1,5 @@
 ### Olá, me chamo Kauan Oliveira😘
 
-🏫 Sou estudante meio período no último ano de desenvolvimento de sistemas junto com ensino médio na Etec.
-
 Foco meus estudos pessoais em Database Development, projetos web full stack com PHP, aplicativos windows form em C# e sistemas JAVA e Python.
 
 ● Stats:
