@@ -1,6 +1,7 @@
-### Olá, me chamo Kauan Oliveira😘
+### Olá, me chamo Kauan Oliveira
 
-Foco meus estudos pessoais em Database Development, projetos web full stack com PHP, aplicativos windows form em C# e sistemas JAVA e Python.
+Sou estudante de desenvolvimento de sistemas, trabalho com Java e foco meus estudos em frameworks de JavaScript, como NodeJs e ReactJs.
+Também me arrisco em qualquer coisa que me chamam atenção, como scripts de automação e desenvolvimento de jogos 😘.
 
 ● Stats:
 
