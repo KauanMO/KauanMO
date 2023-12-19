@@ -2,7 +2,11 @@
 
 Sou estudante de desenvolvimento de sistemas, trabalho com Java e foco meus estudos em frameworks de JavaScript, como NodeJs e ReactJs.
 Também me arrisco em qualquer coisa que me chamam atenção, como scripts de automação e desenvolvimento de jogos. 😘
-
+<div align='center'>
+  <img src='https://i.pinimg.com/originals/e5/bd/3a/e5bd3a2f2cf2f6f4dad0f531b92564be.gif' width='90%'>
+    </div>
+    <br>
+    
 ● Stats:
 
 <div>
