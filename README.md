@@ -1,6 +1,6 @@
 ### Olá, me chamo Kauan Oliveira
 
-Sou estudante de desenvolvimento de sistemas, trabalho com Java e foco meus estudos em frameworks de JavaScript, como NodeJs e ReactJs.
+Sou estudante de desenvolvimento de sistemas, trabalho com Java e foco meus estudos em desenvolvimento back-end em NodeJS e Spring Boot e suas tecnologias.
 Também me arrisco em qualquer coisa que me chamam atenção, como scripts de automação e desenvolvimento de jogos. 😘
 <div align='center'>
   <img src='https://i.pinimg.com/originals/e5/bd/3a/e5bd3a2f2cf2f6f4dad0f531b92564be.gif' width='90%'>
@@ -11,9 +11,14 @@ Também me arrisco em qualquer coisa que me chamam atenção, como scripts de au
 
 <div>
   ‎<a href="https://github.com/KauanMO">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanMO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanMO&layout=compact&langs_count=7&theme=radical"/>
-  </a>
+  <center>
+      <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=KauanMO&theme=calm&show_icons=true&hide_border=true&count_private=true" width="400rem"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanMO&theme=calm&show_icons=true&hide_border=true&layout=compact"/>
+      </div>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KauanMO&theme=calm&hide_border=true" width="550rem"/>
+      </a>
+  <center>
 </div><br>
   
   ● Skills:
