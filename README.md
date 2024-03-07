@@ -11,14 +11,12 @@ Também me arrisco em qualquer coisa que me chamam atenção, como scripts de au
 
 <div>
   ‎<a href="https://github.com/KauanMO">
-  <center>
-      <div>
+      <div align='center'>
         <img src="https://github-readme-stats.vercel.app/api?username=KauanMO&theme=calm&show_icons=true&hide_border=true&count_private=true" width="400rem"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanMO&theme=calm&show_icons=true&hide_border=true&layout=compact"/>
       </div>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=KauanMO&theme=calm&hide_border=true" width="550rem"/>
       </a>
-  <center>
 </div><br>
   
   ● Skills:
