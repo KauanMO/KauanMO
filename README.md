@@ -9,9 +9,9 @@ Também me arrisco em qualquer coisa que me chamam atenção, como scripts de au
     
 ● Stats:
 
-<div>
+<div align='center'>
   ‎<a href="https://github.com/KauanMO">
-      <div align='center'>
+      <div>
         <img src="https://github-readme-stats.vercel.app/api?username=KauanMO&theme=calm&show_icons=true&hide_border=true&count_private=true" width="400rem"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanMO&theme=calm&show_icons=true&hide_border=true&layout=compact"/>
       </div>
