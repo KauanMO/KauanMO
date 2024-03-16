@@ -61,7 +61,7 @@
   ‎ <img src='https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white'>
   <img src='https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink'>
 
-<h3 align="center">Skills</h3>
+<h3 align="center">Contato</h3>
   
 <a href="https://www.linkedin.com/in/kauan-oliveira-4a08b41b8/"><img align="center" alt="Kauan-Linkedin" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/KauanMO"><img align="center" alt="Kauan-GitHub" height="30" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
