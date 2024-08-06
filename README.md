@@ -3,10 +3,9 @@
 </div>
 
 <div>
-⭐ Estudante de desenvolvimento de sistemas. <br>
-⭐ Trabalho com Java. <br>
-⭐ Foco meus estudos em desenvolvimento back-end em Spring Boot e NodeJS e suas tecnologias.<br>
-⭐ Me arrisco em qualquer coisa que me chamam atenção, como scripts de automação e game development. 
+    ⭐ Engenheiro de Software Backend Java Spring Boot e Node.JS 
+    ⭐ Formado em ensino técnico de Desenvolvimento de sistemas pela ETEC de Guainases
+    ⭐ Atualmente cursando Análise e Desenvolvimento de Sistemas em São Paulo Tech School - SPTECH
 </div>
 
 <br>
