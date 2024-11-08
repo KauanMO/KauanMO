@@ -4,7 +4,7 @@
 
 <div align="center" width='100%'>
     <p align="start" width='20%'>
-        ⭐ Engenheiro de Software Backend Java Spring Boot e Node.JS <br>
+        ⭐ Engenheiro de Software Backend Java Spring Boot, ASP.NET e Node.JS <br>
         ⭐ Formado em ensino técnico de Desenvolvimento de sistemas pela ETEC de Guainases <br>
         ⭐ Atualmente cursando Análise e Desenvolvimento de Sistemas em São Paulo Tech School - SPTECH <br>
     </p> 
