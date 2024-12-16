@@ -13,14 +13,12 @@
 
 
 <h3 align="center">Stats</h3>
-
 <div align='center'>
   ‎<a href="https://github.com/KauanMO">
       <div>
         <img src="https://github-readme-stats.vercel.app/api?username=KauanMO&theme=calm&show_icons=true&hide_border=true&count_private=true" width="400rem"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanMO&theme=calm&show_icons=true&hide_border=true&layout=compact"/>
       </div>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KauanMO&theme=calm&hide_border=true" width="550rem"/>
       </a>
 </div>
   
