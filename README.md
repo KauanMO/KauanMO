@@ -2,19 +2,18 @@
     <h2>Olá, me chamo Kauan Oliveira!</h2>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center; width: 100%; gap:2rem">
-  <div style="width: 50%; text-align: left; padding-right: 10px;">
-    ⭐ Engenheiro de Software Backend Java Spring Boot, ASP.NET e Node.JS <br>
-    ⭐ Formado em ensino técnico de Desenvolvimento de sistemas pela ETEC de Guainases <br>
-    ⭐ Atualmente cursando Análise e Desenvolvimento de Sistemas em São Paulo Tech School - SPTECH <br>
-    
-  </div>
-
-  <div style="width: 35%; text-align: center;">
-    <img src="https://i.pinimg.com/originals/e5/bd/3a/e5bd3a2f2cf2f6f4dad0f531b92564be.gif" style="max-width: 100%; height: auto;">
-  </div>
-</div>
-
+<table>
+  <tr>
+    <td>
+      ⭐ Engenheiro de Software Backend Java Spring Boot, ASP.NET e Node.JS <br>
+      ⭐ Formado em ensino técnico de Desenvolvimento de sistemas pela ETEC de Guainases <br>
+      ⭐ Atualmente cursando Análise e Desenvolvimento de Sistemas em São Paulo Tech School - SPTECH <br>
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/originals/e5/bd/3a/e5bd3a2f2cf2f6f4dad0f531b92564be.gif" width="200">
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="center">Stats</h3>
