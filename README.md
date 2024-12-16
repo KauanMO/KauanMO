@@ -15,12 +15,13 @@
 <h3 align="center">Stats</h3>
 <div align='center'>
     <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=KauanMO&theme=calm&show_icons=true&hide_border=true&count_private=true" width="400rem"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanMO&theme=calm&show_icons=true&hide_border=true&layout=donut-vertical"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=KauanMO&theme=calm&show_icons=true&hide_border=true&count_private=true&show=prs_merged,prs_merged_percentage" width="400rem"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanMO&theme=calm&show_icons=true&hide_border=true&layout=donut"/>
     </div>
 </div>
   
 <h3 align="center">Skills</h3>
+  
   Front-end
   
   ‎ <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
