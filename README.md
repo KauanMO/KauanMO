@@ -1,5 +1,5 @@
 
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQE6zUiSgMrITg/profile-displaybackgroundimage-shrink_350_1400/B4DZYiY06vGwAY-/0/1744333657396?e=1756339200&v=beta&t=TVx0svfOhbdLYM54dh72xqMlcOaDp32ZzxgAVtKtF-E)
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQFOaRH61trsxw/profile-displaybackgroundimage-shrink_350_1400/B4DZe.EftZH4Ac-/0/1751240540332?e=1758153600&v=beta&t=9acFIqdWzlGTLbh3ldCSFmZbjE7KaGPAqGfG5nXORJc)
 
 <div align="center">
     <h2>Olá, me chamo Kauan Oliveira!</h2>
