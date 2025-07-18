@@ -8,15 +8,19 @@
 
 
 
-<div style='display: flex' align="center">
-    <p align='start' style='width: 70%'>
+<div style='display: flex'>
+  <div align="center">
+    <p align='start' style='width: 90%'>
         ⭐ Engenheiro de Software Backend Java Spring Boot e Quarkus, ASP.NET e Node.JS <br>
         🧑‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela São Paulo Tech School - SPTECH <br>
         📚 Formado em ensino técnico de Desenvolvimento de sistemas pela ETEC de Guainases <br>
         🚀 Desenvolvedor Salesforce por 2 anos <br>
         💡 Atualmente desenvolvedor back-end na IBM, atuando na área de infraestrutura de autenticação entre microsserviços em um dos maiores bancos do Brasil <br>
     </p>
-    <img src="https://raw.githubusercontent.com/KauanMO/Bucket/refs/heads/main/avatar.png" width="24%">
+    </div>
+    <div align="center">
+    <img src="https://raw.githubusercontent.com/KauanMO/Bucket/refs/heads/main/avatar.png" width="100%">
+    </div>
 </div>
 <h1>Meus status no GitHub</h1>
 <div align='center'>
