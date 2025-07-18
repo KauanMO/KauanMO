@@ -6,7 +6,7 @@
 <a href="https://wa.me/5511910434007" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="kauan-matheus-oliveira"/></a>
 
 <div style='display: flex'>
-    <div align="center" style='width: 50%'>
+    <div style='width: 70%'>
         <p align='start'>
             ⭐ Engenheiro de Software Backend Java Spring Boot e Quarkus, ASP.NET e Node.JS <br>
             🧑‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela São Paulo Tech School - SPTECH <br>
@@ -14,9 +14,6 @@
             🚀 Desenvolvedor Salesforce por 2 anos <br>
             💡 Atualmente desenvolvedor back-end na IBM, atuando na área de infraestrutura de autenticação entre microsserviços em um dos maiores bancos do Brasil <br>
         </p>
-    </div>
-    <div align="center" style='width: 50%'>
-        <img src="https://raw.githubusercontent.com/KauanMO/Bucket/refs/heads/main/avatar.png">
     </div>
 </div>
 
