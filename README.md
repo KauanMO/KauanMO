@@ -1,30 +1,29 @@
 ![Banner](https://raw.githubusercontent.com/KauanMO/Bucket/refs/heads/main/header.jpg)
 
 <h1 align="left">Sobre mim</h1>
-
 <a href="https://linkedin.com/in/kauan-matheus-oliveira" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kauan-matheus-oliveira"/></a>
 <a href="mailto:kauaanmatheus@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="kauan-matheus-oliveira"/></a>
 <a href="https://wa.me/5511910434007" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="kauan-matheus-oliveira"/></a>
 
-
-
 <div style='display: flex'>
-  <div align="center">
-    <p align='start' style='width: 90%'>
-        ⭐ Engenheiro de Software Backend Java Spring Boot e Quarkus, ASP.NET e Node.JS <br>
-        🧑‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela São Paulo Tech School - SPTECH <br>
-        📚 Formado em ensino técnico de Desenvolvimento de sistemas pela ETEC de Guainases <br>
-        🚀 Desenvolvedor Salesforce por 2 anos <br>
-        💡 Atualmente desenvolvedor back-end na IBM, atuando na área de infraestrutura de autenticação entre microsserviços em um dos maiores bancos do Brasil <br>
-    </p>
+    <div align="center" style='width: 50%'>
+        <p align='start'>
+            ⭐ Engenheiro de Software Backend Java Spring Boot e Quarkus, ASP.NET e Node.JS <br>
+            🧑‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela São Paulo Tech School - SPTECH <br>
+            📚 Formado em ensino técnico de Desenvolvimento de sistemas pela ETEC de Guainases <br>
+            🚀 Desenvolvedor Salesforce por 2 anos <br>
+            💡 Atualmente desenvolvedor back-end na IBM, atuando na área de infraestrutura de autenticação entre microsserviços em um dos maiores bancos do Brasil <br>
+        </p>
     </div>
-    <div align="center">
-    <img src="https://raw.githubusercontent.com/KauanMO/Bucket/refs/heads/main/avatar.png" width="100%">
+    <div align="center" style='width: 50%'>
+        <img src="https://raw.githubusercontent.com/KauanMO/Bucket/refs/heads/main/avatar.png">
     </div>
 </div>
+
 <h1>Meus status no GitHub</h1>
 <div align='center'>
-    <div><br>
+    <div>
+    <br>
         <img src="https://github-readme-stats.vercel.app/api?username=KauanMO&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="50%"/>
         <img src="https://github-readme-streak-stats.herokuapp.com?user=KauanMO&theme=midnight-purple&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" width="50%"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanMO&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="50%"/>
